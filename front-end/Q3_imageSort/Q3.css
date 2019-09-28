@@ -1,0 +1,27 @@
+* {
+    text-align:center;
+}
+
+li {
+    list-style-type : none;
+    float:left;
+    margin: 5%;
+}
+
+#main{
+    margin-top : 20px;
+}
+
+img{  
+    width: 150px;
+}
+
+::before{
+    font-size: 40px;
+}
+
+.score{
+    position: relative;
+    top: -10px;
+    font-size: 29px;
+}
